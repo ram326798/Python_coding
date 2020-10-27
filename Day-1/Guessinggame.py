@@ -8,8 +8,7 @@ def Guessinggame():
   #In order to know the randow value   print(c)
 
     guess = int(input("Guess a number:- "))
-
-    
+   
     if c>guess:
         print("your guess  is lower")
     elif c<guess:
