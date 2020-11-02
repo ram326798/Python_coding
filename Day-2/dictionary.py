@@ -6,5 +6,9 @@ print(y)
 
 #using list comprehension
 
+x=[i for i in y.items()]
+print(x)
+list(y.values())
+
 x=[i*i for i in l]
 print(x)
