@@ -4,3 +4,8 @@ newList=[]
 newList = [[float(y) for y in x] for x in l]
 
 print(newList)
+
+#output:
+
+# print(newList)
+# [[40.0, 20.0], [20.0, 30.0, 20.0], [30.0, 20.0], [100.0, 100.0], [100.0], [100.0]]
